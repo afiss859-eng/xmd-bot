@@ -1,0 +1,5 @@
+node_modules/
+xmd-session/
+.env
+*.log
+auth_info_baileys/
